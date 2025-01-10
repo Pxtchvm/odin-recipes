@@ -10,3 +10,4 @@ Credits to https://panlasangpinoy.com/ for the recipes used in this website.
 - HTML boilerplate
 - Lists
 - Tags
+- Links
