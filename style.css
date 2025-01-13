@@ -1,9 +1,22 @@
+/* * {
+    outline: 2px solid red;
+} */
+
 h1,
 p,
 ul {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+li {
+    margin: 10px auto;
+}
+
 body {
     background-color: antiquewhite;
+}
+
+.introduction {
+    max-width: fit-content;
+    margin-inline: auto;
 }
